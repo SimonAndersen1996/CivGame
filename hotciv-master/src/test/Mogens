@@ -1,0 +1,10 @@
+[OK] Red is the first player in turn
+[OK] Red's city is at (1,1)
+[OK] there is ocean at (1,0)
+We have a board that contains a unit at (1,2)
+units cannot move over mountain
+Red cannot move Blue's units
+cities produce 6 `production' after a round has ended
+cities' population size is always 1
+[OK]Red wins in year 3000 BC
+Red's unit attack and destroy Blue's unit
